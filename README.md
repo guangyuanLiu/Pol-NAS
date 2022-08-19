@@ -8,3 +8,4 @@ Here we provide the complete results of features for visulization of each model 
     <img src="https://github.com/guangyuanLiu/Pol-NAS/blob/main/PauliRGB_without_filter_patch.png" width="100"/><img src="https://github.com/guangyuanLiu/Pol-NAS/blob/main/gt_patch.png" width="100"/>
 </center>
 
+![The features for the input patch of FCN*](https://github.com/guangyuanLiu/Pol-NAS/blob/main/FCN_asterisk_feat_with_sum_feat.tif)
