@@ -10,3 +10,13 @@ Here we provide the code of Pol-NAS in "The code of Pol-NAS.zip" and the complet
 
 This repository has been tested on RTX 3090.
 
+## Citation
+```
+@article{liu2022pol,
+  title={Pol-NAS: A Neural Architecture Search Method With Feature Selection for PolSAR Image Classification},
+  author={Liu, Guangyuan and Li, Yangyang and Chen, Yanqiao and Shang, Ronghua and Jiao, Licheng},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year={2022},
+  publisher={IEEE}
+}
+```
